@@ -1,0 +1,13 @@
+{
+  "id": "faerun-regles",
+  "title": "L'épopée de Faerûn – Règles maison",
+  "description": "Automatisations de règles pour la campagne L'épopée de Faerûn (dnd5e).",
+  "version": "1.0.0",
+  "authors": [{ "name": "Shadou-vtt" }],
+  "compatibility": { "minimum": "13", "verified": "14" },
+  "relationships": { "systems": [{ "id": "dnd5e", "type": "system", "compatibility": { "minimum": "5.0.0" } }] },
+  "esmodules": ["main.js"],
+  "url": "https://github.com/Shadou-vtt/faerun-regles",
+  "manifest": "https://github.com/Shadou-vtt/faerun-regles/releases/latest/download/module.json",
+  "download": "https://github.com/Shadou-vtt/faerun-regles/releases/latest/download/faerun-regles.zip"
+}
